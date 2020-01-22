@@ -5,7 +5,8 @@ This project provides basic functionalities for hosting events and buying ticket
 ## Use of IPFS
 
 IPFS is used for holding data (Specifically event Image, logo) on the destributed network.
-You can Go to "Add Event" tab,the picture that is to be uploaded with event, is stored at IPFS
+You can Go to "Add Event" tab, the picture that is to be uploaded with event, is stored at IPFS.
+
 This Dapp is hosted at IPFS at the following link:
 https://ipfs.infura.io/ipfs/QmbaU9nehs5J1CG7wtvQE148R6VBvJEyPdAhAAvvp92TCK/toc/#/
 
